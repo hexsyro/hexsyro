@@ -25,8 +25,8 @@ I'm a **Python Automation Specialist** and **Data Solutions Provider** focused o
 - **FreeCodeCamp:** Responsive Web Design
 - **Freelance Goal:** To deliver quick, high-impact automation solutions for Upwork clients.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heshanmvppp/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Heshanmvppp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hexsyro)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hexsyro)
 
 ---
 
