@@ -1,6 +1,6 @@
 # Hi, I'm Heshan 👋
 
-I'm a **Python Automation Specialist** and **Data Solutions Provider** focused on building reliable scripts and bots to save businesses time and money. I transform messy web data and manual processes into clean, actionable insights.
+I build Python-powered automation and web scraping solutions with Playwright, turning manual workflows into efficient, reliable processes and actionable data.
 
 ---
 
