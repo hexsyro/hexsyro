@@ -2,7 +2,7 @@
 
 # Hi, I'm Heshan 👋
 
-I build **advanced web scraping, automation systems, and backend platforms** with a focus on **data quality, performance, and security**.
+> I specialize in **advanced web scraping and automation**, turning complex data sources into structured, analysis-ready datasets with security and reliability built in.
 
 ---
 
@@ -61,12 +61,5 @@ I build **advanced web scraping, automation systems, and backend platforms** wit
 * Python-based multi-page web scraper
 * Extracts quotes, authors, and tags into structured datasets
 * Demonstrates pagination handling, DOM parsing, and data export workflows
-
----
-
-> I specialize in **advanced web scraping and automation**, turning complex data sources into structured, analysis-ready datasets with security and reliability built in.
-
----
-Here’s your upgraded section, converted cleanly into the requested format and reflecting the **11-platform coverage** and **dataset marketplace positioning**:
 
 ---
