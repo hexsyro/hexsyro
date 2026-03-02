@@ -78,13 +78,3 @@ My work centers on **social media datasets, OSINT pipelines, and automation-firs
 > I specialize in **advanced web scraping and automation**, turning complex data sources into usable insights, with security and reliability built-in.
 
 ---
-
-GoodQuote Scraper  ──▶  SocialIntel Platform  ──▶  Future OSINT Pipelines
-  Beginner                 Intermediate               Advanced
-  ─────────                ────────────             ─────────────
-  • Multi-page scraping     • Multi-source scraping    • Enterprise-grade
-  • Quote + author + tags   • Structured datasets     • Automated OSINT
-  • CSV / JSON outputs      • PostgreSQL storage      • Scalable pipelines
-  • Pagination handling     • API access & JWT auth   • Anti-bot & async
-                            • Monthly automated       • Full-stack & security
-                              collection
