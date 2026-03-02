@@ -13,6 +13,8 @@ I build **advanced web scraping, automation systems, and backend platforms** wit
 * APIs for Data Access & Export
 * Security-aware, scalable systems
 
+---
+
 <div align="center">
   <p>
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
