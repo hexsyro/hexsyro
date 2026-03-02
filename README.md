@@ -42,7 +42,7 @@ I build **advanced web scraping, automation systems, and backend platforms** wit
 
 ## 📂 Featured Projects
 
-### 1️⃣ SocialIntel – OSINT Dataset Platform (Private)  🔗 [https://socialintel.io](https://socialintel.io)
+### [1️⃣ SocialIntel – OSINT Dataset Platform (Private)](https://socialintel.io)
 
 * Collects structured social media data from Reddit, TikTok, YouTube, and more
 * Automated scraping, enrichment, and export pipelines
