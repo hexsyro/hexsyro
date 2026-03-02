@@ -6,15 +6,6 @@ I build **advanced web scraping, automation systems, and backend platforms** wit
 
 ---
 
-## 🚀 What I Build
-
-* Advanced Web Scraping & Automation Pipelines
-* OSINT & Social Media Data Platforms
-* APIs for Data Access & Export
-* Security-aware, scalable systems
-
----
-
 <div align="center">
   <p>
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
@@ -64,15 +55,6 @@ I build **advanced web scraping, automation systems, and backend platforms** wit
 * Python scraper for multi-page quotes
 * Extracts quotes, authors, and tags into structured CSV/JSON datasets
 * Demonstrates pagination, DOM parsing, and robust scraping techniques
-
----
-
-## 🧠 Learning Focus
-
-* Advanced web scraping resilience (anti-bot, async, rotating proxies)
-* Scalable backend architecture & PostgreSQL optimization
-* Automation-first pipelines for OSINT & dataset collection
-* Offensive security & penetration testing fundamentals
 
 ---
 
