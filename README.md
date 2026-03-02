@@ -12,11 +12,18 @@ I build **advanced web scraping, automation systems, and backend platforms** wit
 * OSINT & Social Media Data Platforms
 * APIs for Data Access & Export
 * Security-aware, scalable systems
-<div align = "center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" /></p><p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
-  
-</div>
+
 <div align="center">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" />
+  </p>
+  <p>
+    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  </p>
+</div>
+
 ---
 
 ## 🛠️ Core Skills
@@ -24,7 +31,7 @@ I build **advanced web scraping, automation systems, and backend platforms** wit
 **Web Scraping & Automation**
 
 * Playwright (Python) – browser-level scraping, dynamic content
-* BeautifulSoup & Requests – fast, lightweight HTML parsing
+* BeautifulSoup & Requests – lightweight HTML parsing
 * Anti-bot techniques – rate limits, delays, randomized interactions
 * Multi-source aggregation & pipeline design
 
@@ -43,7 +50,7 @@ I build **advanced web scraping, automation systems, and backend platforms** wit
 
 ## 📂 Featured Projects
 
-### 1️⃣ SocialIntel – OSINT Dataset Platform
+### 1️⃣ SocialIntel – OSINT Dataset Platform (Private)
 
 * Collects structured social media data from Reddit, TikTok, YouTube, and more
 * Automated monthly scraping & data enrichment pipelines
