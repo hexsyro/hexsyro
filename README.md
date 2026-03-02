@@ -15,9 +15,6 @@ I build **advanced web scraping, automation systems, and backend platforms** wit
 
 <div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" />
-  </p>
-  <p>
     <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
     <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
