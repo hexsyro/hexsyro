@@ -1,47 +1,90 @@
+---
+
 # Hi, I'm Heshan 👋
 
-I build **secure, data-driven platforms** and **automation systems** designed for real-world scale. I focus on turning raw social media data into structured, analysis-ready insights.
+I build **advanced web scraping, automation systems, and backend platforms** with a focus on **data quality, performance, and security**.
+
+My work centers on **social media datasets, OSINT pipelines, and automation-first systems** that turn raw data into actionable insights.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I Build
 
-| Category | Tools & Technologies |
-| --- | --- |
-| **Backend** | Python, FastAPI, PostgreSQL |
-| **Automation** | Playwright, Web Scraping, Anti-bot bypass |
-| **Data** | ETL Pipelines, CSV/JSON Normalization |
-| **Systems** | Linux, Bash, Git, Security Enumeration |
+* Advanced Web Scraping & Automation Pipelines
+* OSINT & Social Media Data Platforms
+* APIs for Data Access & Export
+* Security-aware, scalable systems
 
 ---
 
-### 🚀 Key Focus Areas
+## 🛠️ Core Skills
 
-* **Social Media Intelligence:** Building platforms that collect, structure, and expose datasets via high-performance APIs.
-* **Web Automation:** Developing robust Playwright-based collectors that handle dynamic content and rate limits.
-* **Security-First Engineering:** Integrating offensive security principles (HTB, penetration testing) to build resilient systems.
+**Web Scraping & Automation**
 
----
+* Playwright (Python) – browser-level scraping, dynamic content
+* BeautifulSoup & Requests – fast, lightweight HTML parsing
+* Anti-bot techniques – rate limits, delays, randomized interactions
+* Multi-source aggregation & pipeline design
 
-### 📂 Featured Work
+**Backend & Data Engineering**
 
-* **Social Media Dataset Platform:** An active system for structured data collection, relational storage, and API-based research exports.
-* **Custom Collectors:** Query-based automation tools designed for repeatability and data quality.
-* **Backend Infrastructure:** API-first architectures featuring secure authentication and dataset cataloging.
+* FastAPI – REST APIs, JWT authentication, subscription control
+* PostgreSQL – structured storage, schema design, export-ready datasets
+* Data processing – CSV, JSON, JSONL outputs, automated enrichment
 
----
+**Full-stack Development & Security**
 
-### 🧠 Currently Leveling Up
-
-* **Offensive Security:** Deepening knowledge in web/system logic and penetration testing.
-* **System Internals:** Exploring Linux internals and PostgreSQL performance optimization.
-
----
-
-### 🌐 Connect With Me
-
-> **"Data quality > scale > usability."** I build functional systems, not just demos.
+* Next.js + Tailwind – front-end dashboards
+* Secure system design – auth, subscription logic, sensitive data handling
 
 ---
 
-**Would you like me to help you draft a specific 'About' section for one of your featured repositories using this same style?**
+## 📂 Featured Projects
+
+### 1️⃣ SocialIntel – OSINT Dataset Platform
+
+* Collects structured social media data from Reddit, TikTok, YouTube, and more
+* Automated monthly scraping & data enrichment pipelines
+* Stores datasets in PostgreSQL and exposes them via REST APIs
+* Secure JWT authentication & Stripe subscription system
+* Premium datasets: financial sentiment, product trends, job market intelligence, AI QA pairs, brand monitoring
+
+**Skills demonstrated:** Advanced scraping logic, automation, backend API design, secure full-stack deployment
+
+### 2️⃣ GoodQuote Scraper
+
+* Python scraper for multi-page quotes
+* Extracts quotes, authors, and tags into structured CSV/JSON datasets
+* Demonstrates pagination, DOM parsing, and robust scraping techniques
+
+---
+
+## 🧠 Learning Focus
+
+* Advanced web scraping resilience (anti-bot, async, rotating proxies)
+* Scalable backend architecture & PostgreSQL optimization
+* Automation-first pipelines for OSINT & dataset collection
+* Offensive security & penetration testing fundamentals
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hexsyro)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/hexsyro)
+
+---
+
+> I specialize in **advanced web scraping and automation**, turning complex data sources into usable insights, with security and reliability built-in.
+
+---
+
+GoodQuote Scraper  ──▶  SocialIntel Platform  ──▶  Future OSINT Pipelines
+  Beginner                 Intermediate               Advanced
+  ─────────                ────────────             ─────────────
+  • Multi-page scraping     • Multi-source scraping    • Enterprise-grade
+  • Quote + author + tags   • Structured datasets     • Automated OSINT
+  • CSV / JSON outputs      • PostgreSQL storage      • Scalable pipelines
+  • Pagination handling     • API access & JWT auth   • Anti-bot & async
+                            • Monthly automated       • Full-stack & security
+                              collection
