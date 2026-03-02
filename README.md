@@ -18,7 +18,7 @@ I build **web scraping & automation systems** that turn complex web data into st
 
 ## 📂 Projects
 
-### [🔐 SocialIntel (Private)](https://socialintel.io)
+### [🔐 Social Intel (Private)](https://socialintel.io)
 
 OSINT-focused dataset marketplace covering 11 social platforms.
 Includes automated scraping pipelines, data enrichment, secure API access, and subscription-based delivery.
