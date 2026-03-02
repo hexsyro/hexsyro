@@ -4,8 +4,6 @@
 
 I build **advanced web scraping, automation systems, and backend platforms** with a focus on **data quality, performance, and security**.
 
-My work centers on **social media datasets, OSINT pipelines, and automation-first systems** that turn raw data into actionable insights.
-
 ---
 
 ## 🚀 What I Build
