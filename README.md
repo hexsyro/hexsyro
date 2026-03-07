@@ -21,7 +21,7 @@ I build **web scraping & automation systems** that turn complex web data into st
 
 ### [🔐 Social Intel (Private)](https://socialintel.io)
 
-SocialIntel is a production-grade OSINT dataset marketplace that aggregates, enriches, and distributes structured social media data across 11 public platforms.
+SocialIntel is a production-grade OSINT dataset marketplace that aggregates, enriches, and distributes structured social media data across 4 public platforms.
 
 Built with a scalable scraping architecture, automated enrichment pipelines, and secure subscription-based API delivery using JWT authentication and PayHere integration.
 
