@@ -17,7 +17,7 @@ I build **web scraping, automation systems, and data products** — from scraper
 ## 📂 Projects
 
 ### [📰 PulseAggregator](https://www.pulseaggregator.com)
-Production news aggregation platform that indexes **6,900+ articles per run** from 200+ live sources including BBC, Reuters, The Guardian, TechCrunch, and more.
+Production news aggregation platform that indexes **6,900+ articles per run** from 250+ live sources including BBC, Reuters, The Guardian, TechCrunch, and more.
 
 Built with a 4-tier RSS fallback chain, Playwright-powered scraper for paywalled and dynamic sources, and an hourly APScheduler pipeline. Features full-text search, keyword alerts, weekly digest emails, and a REST API.
 
