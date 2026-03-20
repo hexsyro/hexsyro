@@ -1,8 +1,6 @@
----
-
 # Hi, I'm Heshan 👋
 
-I build **web scraping & automation systems** that turn complex web data into structured, analysis-ready datasets.
+I build **web scraping, automation systems, and data products** — from scrapers that handle dynamic sites at scale to full production platforms that serve structured data via REST APIs.
 
 ---
 
@@ -18,46 +16,67 @@ I build **web scraping & automation systems** that turn complex web data into st
 
 ## 📂 Projects
 
+### [📰 PulseAggregator](https://www.pulseaggregator.com)
+Production news aggregation platform that indexes **6,900+ articles per run** from 200+ live sources including BBC, Reuters, The Guardian, TechCrunch, and more.
 
-### [🔐 Social Intel (Private)](https://socialintel.io)
+Built with a 4-tier RSS fallback chain, Playwright-powered scraper for paywalled and dynamic sources, and an hourly APScheduler pipeline. Features full-text search, keyword alerts, weekly digest emails, and a REST API.
 
-SocialIntel is a production-grade OSINT dataset marketplace that aggregates, enriches, and distributes structured social media data across 4 public platforms.
+`FastAPI` · `PostgreSQL` · `Playwright` · `Next.js` · `APScheduler` · `Resend` · `Railway` · `Supabase`
 
-Built with a scalable scraping architecture, automated enrichment pipelines, and secure subscription-based API delivery using JWT authentication and PayHere integration.
+---
 
-Designed for AI training, financial sentiment analysis, brand monitoring, and market intelligence.
+### [🔐 SocialIntel](https://socialintel.io)
+Production-grade OSINT dataset marketplace aggregating, enriching, and distributing structured social media data across Reddit, YouTube, GitHub, and Medium.
 
+Features a scalable scraping architecture, automated enrichment pipelines, and secure subscription-based API delivery. Datasets cover AI training, financial sentiment, brand monitoring, and market intelligence.
+
+`FastAPI` · `PostgreSQL` · `Next.js` · `Paddle` · `JWT` · `AWS S3`
+
+---
 
 ### [📜 GoodQuote Scraper](https://github.com/hexsyro/Goodreads-quote-scraper)
+Multi-page Python scraper extracting quotes, authors, and tags from Goodreads into structured datasets.
 
-Multi-page Python scraper extracting quotes, authors, and tags into structured datasets.
-
+`Python` · `BeautifulSoup` · `CSV`
 
 ---
 
 ## 🛠 Tech Stack
 
 **Scraping & Automation**
-
-* Playwright (Python)
+* Playwright (Python & Node)
 * Selenium
 * BeautifulSoup
-* Requests
+* Requests / HTTPX
 * Asyncio
 
 **Data Processing**
-
-* Pandas
-* NumPy
-* CSV / JSON / JSONL exports
+* Pandas · NumPy
+* CSV / JSON / JSONL / Parquet exports
+* lxml (XML/RSS repair)
 
 **Backend**
-
 * FastAPI
-* PostgreSQL
+* PostgreSQL (asyncpg)
 * JWT Authentication
+* APScheduler
+* Resend (transactional email)
 
 **Frontend**
-
-* Next.js
+* Next.js 15 (App Router)
 * Tailwind CSS
+* TypeScript
+
+**Infrastructure**
+* Railway (API hosting)
+* Vercel (frontend)
+* Supabase (managed PostgreSQL)
+* Docker
+
+---
+
+## 📬 Connect
+
+* 🌐 [pulseaggregator.com](https://www.pulseaggregator.com)
+* 🌐 [socialintel.io](https://socialintel.io)
+* 🐦 [x.com/hexsyro](https://x.com/hexsyro)
