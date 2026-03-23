@@ -17,6 +17,7 @@ I build **web scraping, automation systems, and data products** — from scraper
 ## 📂 Projects
 
 ### [📰 PulseAggregator](https://www.pulseaggregator.com)
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 Production news aggregation platform that indexes **6,900+ articles per run** from 250+ live sources including BBC, Reuters, The Guardian, TechCrunch, and more.
 
 Built with a 4-tier RSS fallback chain, Playwright-powered scraper for paywalled and dynamic sources, and an hourly APScheduler pipeline. Features full-text search, keyword alerts, weekly digest emails, and a REST API.
@@ -26,6 +27,7 @@ Built with a 4-tier RSS fallback chain, Playwright-powered scraper for paywalled
 ---
 
 ### [🔐 SocialIntel](https://socialintel.io)
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 Production-grade OSINT dataset marketplace aggregating, enriching, and distributing structured social media data across Reddit, YouTube, GitHub, and Medium.
 
 Features a scalable scraping architecture, automated enrichment pipelines, and secure subscription-based API delivery. Datasets cover AI training, financial sentiment, brand monitoring, and market intelligence.
