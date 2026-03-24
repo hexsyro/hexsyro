@@ -28,9 +28,8 @@ Built with a 4-tier RSS fallback chain, Playwright-powered scraper for paywalled
 
 ### [🔐 SocialIntel](https://socialintel.io)
 [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-Production-grade OSINT dataset marketplace aggregating, enriching, and distributing structured social media data across Reddit, YouTube, GitHub, and Medium.
-
-Features a scalable scraping architecture, automated enrichment pipelines, and secure subscription-based API delivery. Datasets cover AI training, financial sentiment, brand monitoring, and market intelligence.
+Production OSINT marketplace with 125K+ pre-processed social records across 106 datasets (Reddit/YouTube/GitHub/Medium). 
+Automated sentiment scores, topic tags, engagement signals. Drop-in ready for Python/Tableau/LLMs. 10 free datasets.
 
 `FastAPI` · `PostgreSQL` · `Next.js` · `Paddle` · `JWT` · `AWS S3`
 
