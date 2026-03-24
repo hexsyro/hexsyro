@@ -17,7 +17,7 @@ I build **web scraping, automation systems, and data products** — from scraper
 ## 📂 Projects
 
 ### [📰 PulseAggregator](https://www.pulseaggregator.com)
-[![Demo Video](https://img.youtube.com/vi/McLvQCSXJsU?si=A6glq0tg1zJAX5IE/0.jpg)](https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE))
+[![Demo Video]([https://img.youtube.com/vi/McLvQCSXJsU?si=A6glq0tg1zJAX5IE/0.jpg](https://i.ytimg.com/an_webp/3Mce6Z-nlQA/mqdefault_6s.webp?du=3000&sqp=CMCjis4G&rs=AOn4CLDqiRC1KdMZCShOrCEmMDwgEfIMWA))](https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE))
 Production news aggregation platform that indexes **6,900+ articles per run** from 250+ live sources including BBC, Reuters, The Guardian, TechCrunch, and more.
 
 Built with a 4-tier RSS fallback chain, Playwright-powered scraper for paywalled and dynamic sources, and an hourly APScheduler pipeline. Features full-text search, keyword alerts, weekly digest emails, and a REST API.
