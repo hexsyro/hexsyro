@@ -1,6 +1,6 @@
 # Hi, I'm Heshan 👨‍💻
 
-I build **production web scraping platforms** that deliver **structured data at scale** — 125K+ social records enriched with sentiment/topic analysis updated daily, 6,900+ articles/run from 250+ news sources updated hourly.
+I build **production web scraping platforms** that deliver **structured data at scale**
 
 **Fiverr/Upwork Data Engineer** | Python  | Playwright | FastAPI | ETL Pipelines
 
@@ -12,7 +12,7 @@ I build **production web scraping platforms** that deliver **structured data at 
 ## Featured Projects
 
 ### [Pulse Aggregator](https://www.pulseaggregator.com)
-**Production news platform** indexing **6,900+ articles per run** from 250+ sources (BBC, Reuters, Guardian, TechCrunch).
+**Production news platform** indexing **6,900+ articles per run from 250+ news sources updated hourly.** (BBC, Reuters, Guardian, TechCrunch).
 
 **4-tier RSS fallback** → Playwright scraper (paywalls) → hourly APScheduler → **full-text search + REST API**
 6,900+ articles/run - 250+ sources - 99.9% uptime
@@ -22,7 +22,7 @@ FastAPI - PostgreSQL - Playwright - Next.js - APScheduler
 ---
 
 ### [Social Intel](https://socialintel.io)
-**OSINT dataset marketplace** — **125K+ records across 106 datasets** (Reddit/YouTube/GitHub/Medium).
+**OSINT dataset marketplace** — **125K+ social records across 100+ datasets enriched with sentiment/topic analysis updated daily.** (Reddit/YouTube/GitHub/Medium).
 
 **Pre-processed**: sentiment scores, topic tags, engagement signals. **Drop-in ready** for Python/Tableau/LLMs.
 123,907 total records - 106 datasets - 10 free datasets
