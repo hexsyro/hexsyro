@@ -17,7 +17,7 @@ I build **production web scraping platforms** that deliver **structured data at 
 **4-tier RSS fallback** → Playwright scraper (paywalls) → hourly APScheduler → **full-text search + REST API**
 6,900+ articles/run - 250+ sources - 99.9% uptime
 FastAPI - PostgreSQL - Playwright - Next.js - APScheduler
-[![Demo](https://img.shields.io/badge/Watch%20Demo-)](https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE)
+[![Demo](https://img.shields.io/Watch%20Demo-)](https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE)
 
 ---
 
@@ -27,7 +27,7 @@ FastAPI - PostgreSQL - Playwright - Next.js - APScheduler
 **Pre-processed**: sentiment scores, topic tags, engagement signals. **Drop-in ready** for Python/Tableau/LLMs.
 123,907 total records - 106 datasets - 10 free datasets
 FastAPI - PostgreSQL - Next.js - Paddle - AWS S3
-[![Demo](https://img.shields.io/badge/Watch%20Demo)](https://youtu.be/3Mce6Z-nlQA?si=YbPmtp3zaAy5ojMw)
+[![Demo](https://img.shields.io/Watch%20Demo)](https://youtu.be/3Mce6Z-nlQA?si=YbPmtp3zaAy5ojMw)
 
 ---
 
