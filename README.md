@@ -2,7 +2,7 @@
 
 I build **production web scraping platforms** that deliver **structured data at scale**
 
-**Fiverr/Upwork Data Engineer** | Python  | Playwright | FastAPI | ETL Pipelines
+| Python  | Playwright | FastAPI | ETL Pipelines
 
 [![Pulse Aggregator](https://img.shields.io/badge/PulseAggregator-250+%20Sources-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
 [![Social Intel](https://img.shields.io/badge/SocialIntel-100%2B%20Datasets-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
