@@ -50,9 +50,9 @@ BeautifulSoup - Pagination - Data validation - Multi-page
 
 ---
 
-## 📬 Let's Build Together
-- **Open for Fiverr/Upwork**: Data pipelines, scraping platforms, API development
-- [fiverr.com/hexsyro](https://www.fiverr.com/s/akDPxo7)
-- [upwork.com/hexsyro](https://www.upwork.com/freelancers/~01224b84958c0f50e0?mp_source=share)
+## 📬 Hire Me → Fiverr/Upwork
+- 💼 **Custom scrapers • ETL pipelines • Data platforms • REST APIs**
+- [Fiverr](https://www.fiverr.com/s/akDPxo7)
+- [Upwork](https://www.upwork.com/freelancers/~01224b84958c0f50e0?mp_source=share)
 
 **Need custom scrapers? Production ETL? Hit me up.**
