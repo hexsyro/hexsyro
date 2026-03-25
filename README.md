@@ -1,6 +1,6 @@
 # Hi, I'm Heshan 👨‍💻
 
-I build **production web scraping platforms** that deliver **structured data at scale** — 125K+ social records enriched with sentiment/topic analysis, 6,900+ articles/run from 250+ news sources.
+I build **production web scraping platforms** that deliver **structured data at scale** — 125K+ social records enriched with sentiment/topic analysis updated daily, 6,900+ articles/run from 250+ news sources updated hourly.
 
 **Toptal/Upwork Data Engineer** | Python | FastAPI | Playwright | ETL Pipelines
 
