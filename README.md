@@ -1,85 +1,67 @@
-# Hi, I'm Heshan 👋
+# Hi, I'm Heshan 👨‍💻
 
-I build **web scraping, automation systems, and data products** — from scrapers that handle dynamic sites at scale to full production platforms that serve structured data via REST APIs.
+I build **production web scraping platforms** that deliver **structured data at scale** — 125K+ social records enriched with sentiment/topic analysis, 6,900+ articles/run from 250+ news sources.
 
----
+**Toptal/Upwork Data Engineer** | Python | FastAPI | Playwright | ETL Pipelines
 
-## 🚀 What I Do
-
-* High-performance web scraping (dynamic + static sites)
-* Multi-source data aggregation pipelines
-* Dataset cleaning, enrichment & normalization
-* Secure REST API development
-* Automated data collection systems
+[![PulseAggregator](https://img.shields.io/badge/PulseAggregator-6.9K%20articles%2Frun-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
+[![SocialIntel](https://img.shields.io/badge/SocialIntel-125K%2B%20records-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
 ### [📰 PulseAggregator](https://www.pulseaggregator.com)
-[Demo Video]([[https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE](https://youtu.be/McLvQCSXJsU?si=i87g1XwxShau016h](https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE](https://youtu.be/McLvQCSXJsU?si=i87g1XwxShau016h))
+**Production news platform** indexing **6,900+ articles per run** from 250+ sources (BBC, Reuters, Guardian, TechCrunch).
 
-Production news aggregation platform that indexes **6,900+ articles per run** from 250+ live sources including BBC, Reuters, The Guardian, TechCrunch, and more.
-
-Built with a 4-tier RSS fallback chain, Playwright-powered scraper for paywalled and dynamic sources, and an hourly APScheduler pipeline. Features full-text search, keyword alerts, weekly digest emails, and a REST API.
-
-`FastAPI` · `PostgreSQL` · `Playwright` · `Next.js` · `APScheduler` · `Resend` · `Railway` · `Supabase`
+**4-tier RSS fallback** → Playwright scraper (paywalls) → hourly APScheduler → **full-text search + REST API**
+6,900+ articles/run - 250+ sources - 99.9% uptime
+FastAPI - PostgreSQL - Playwright - Next.js - APScheduler
+[![Demo](https://img.shields.io/badge/Watch%20Demo-🔥-ff4757)](https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE)
 
 ---
 
 ### [🔐 SocialIntel](https://socialintel.io)
-[Demo Video]([[https://youtu.be/3Mce6Z-nlQA?si=YbPmtp3zaAy5ojMw](https://youtu.be/3Mce6Z-nlQA?si=eUpqJLRSpb1vBVac)](https://youtu.be/3Mce6Z-nlQA?si=eUpqJLRSpb1vBVac))
+**OSINT dataset marketplace** — **125K+ records across 106 datasets** (Reddit/YouTube/GitHub/Medium).
 
-Production OSINT marketplace with 125K+ pre-processed social records across 106 datasets (Reddit/YouTube/GitHub/Medium). 
-Automated sentiment scores, topic tags, engagement signals. Drop-in ready for Python/Tableau/LLMs. 10 free datasets.
-
-`FastAPI` · `PostgreSQL` · `Next.js` · `Paddle` · `JWT` · `AWS S3`
+**Pre-processed**: sentiment scores, topic tags, engagement signals. **Drop-in ready** for Python/Tableau/LLMs.
+123,907 total records - 106 datasets - 10 free datasets
+FastAPI - PostgreSQL - Next.js - Paddle - AWS S3
+[![Demo](https://img.shields.io/badge/Watch%20Demo-🚀-00d2d3)](https://youtu.be/3Mce6Z-nlQA?si=YbPmtp3zaAy5ojMw)
 
 ---
 
 ### [📜 GoodQuote Scraper](https://github.com/hexsyro/Goodreads-quote-scraper)
-Multi-page Python scraper extracting quotes, authors, and tags from Goodreads into structured datasets.
+Production Goodreads scraper → **structured CSV/JSON datasets** (quotes, authors, tags).
+BeautifulSoup - Pagination - Data validation - Multi-page
 
-`Python` · `BeautifulSoup` · `CSV`
+---
+🐍 Scraping: Playwright - BeautifulSoup - Asyncio - Proxy rotation
+📊 Data: Pandas - NumPy - Parquet/JSONL exports
+⚡ Backend: FastAPI - PostgreSQL - APScheduler - JWT
+🎨 Frontend: Next.js 15 - Tailwind - TypeScript
+☁️ Infra: Railway - Vercel - Supabase - Docker
+**freeCodeCamp Certified**: Responsive Web Design (Mar 2024) • Scientific Computing with Python (Nov 2025)
 
 ---
 
-## 🛠 Tech Stack
-
-**Scraping & Automation**
-* Playwright (Python & Node)
-* Selenium
-* BeautifulSoup
-* Requests / HTTPX
-* Asyncio
-
-**Data Processing**
-* Pandas · NumPy
-* CSV / JSON / JSONL / Parquet exports
-* lxml (XML/RSS repair)
-
-**Backend**
-* FastAPI
-* PostgreSQL (asyncpg)
-* JWT Authentication
-* APScheduler
-* Resend (transactional email)
-
-**Frontend**
-* Next.js 15 (App Router)
-* Tailwind CSS
-* TypeScript
-
-**Infrastructure**
-* Railway (API hosting)
-* Vercel (frontend)
-* Supabase (managed PostgreSQL)
-* Docker
+## 📈 Stats That Matter
+| Platform | Records | Sources | Status |
+|----------|---------|---------|--------|
+| SocialIntel | 125K+ | 106 datasets | 🟢 Live |
+| PulseAggregator | 6.9K/run | 250+ | 🟢 Live |
 
 ---
 
-## 📬 Connect
+## 📬 Let's Build Together
+- 💼 **Open for Toptal/Upwork**: Data pipelines, scraping platforms, API development
+- 🌐 [pulseaggregator.com](https://www.pulseaggregator.com)
+- 🌐 [socialintel.io](https://socialintel.io)
+- 🐦 [x.com/hexsyro](https://x.com/hexsyro)
+- 📧 heshan[at]socialintel.io
 
-* 🌐 [pulseaggregator.com](https://www.pulseaggregator.com)
-* 🌐 [socialintel.io](https://socialintel.io)
-* 🐦 [x.com/hexsyro](https://x.com/hexsyro)
+**Need custom scrapers? Production ETL? Hit me up.**
+
+
+
+## 🛠 Production Tech Stack
