@@ -2,7 +2,7 @@
 
 I build **production web scraping platforms** that deliver **structured data at scale** — 125K+ social records enriched with sentiment/topic analysis updated daily, 6,900+ articles/run from 250+ news sources updated hourly.
 
-**Toptal/Upwork Data Engineer** | Python | FastAPI | Playwright | ETL Pipelines
+**Fiverr/Upwork Data Engineer** | Python  | Playwright | FastAPI | ETL Pipelines
 
 [![PulseAggregator](https://img.shields.io/badge/PulseAggregator-250+%20Sources-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
 [![SocialIntel](https://img.shields.io/badge/SocialIntel-100%2B%20Datasets-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
@@ -52,7 +52,7 @@ BeautifulSoup - Pagination - Data validation - Multi-page
 
 ## 📬 Let's Build Together
 - **Open for Fiverr/Upwork**: Data pipelines, scraping platforms, API development
-- [upwork.com/hexsyro](https://www.upwork.com/freelancers/~01224b84958c0f50e0?mp_source=share)
 - [fiverr.com/hexsyro](https://www.fiverr.com/s/akDPxo7)
+- [upwork.com/hexsyro](https://www.upwork.com/freelancers/~01224b84958c0f50e0?mp_source=share)
 
 **Need custom scrapers? Production ETL? Hit me up.**
