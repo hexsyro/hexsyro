@@ -9,52 +9,50 @@ I build **production web scraping platforms** that deliver **structured data at 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [📰 PulseAggregator](https://www.pulseaggregator.com)
+### [PulseAggregator](https://www.pulseaggregator.com)
 **Production news platform** indexing **6,900+ articles per run** from 250+ sources (BBC, Reuters, Guardian, TechCrunch).
 
 **4-tier RSS fallback** → Playwright scraper (paywalls) → hourly APScheduler → **full-text search + REST API**
 6,900+ articles/run - 250+ sources - 99.9% uptime
 FastAPI - PostgreSQL - Playwright - Next.js - APScheduler
-[![Demo](https://img.shields.io/badge/Watch%20Demo-🔥-ff4757)](https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE)
+[![Demo](https://img.shields.io/badge/Watch%20Demo-)](https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE)
 
 ---
 
-### [🔐 SocialIntel](https://socialintel.io)
+### [SocialIntel](https://socialintel.io)
 **OSINT dataset marketplace** — **125K+ records across 106 datasets** (Reddit/YouTube/GitHub/Medium).
 
 **Pre-processed**: sentiment scores, topic tags, engagement signals. **Drop-in ready** for Python/Tableau/LLMs.
 123,907 total records - 106 datasets - 10 free datasets
 FastAPI - PostgreSQL - Next.js - Paddle - AWS S3
-[![Demo](https://img.shields.io/badge/Watch%20Demo-🚀-00d2d3)](https://youtu.be/3Mce6Z-nlQA?si=YbPmtp3zaAy5ojMw)
+[![Demo](https://img.shields.io/badge/Watch%20Demo)](https://youtu.be/3Mce6Z-nlQA?si=YbPmtp3zaAy5ojMw)
 
 ---
 
-### [📜 GoodQuote Scraper](https://github.com/hexsyro/Goodreads-quote-scraper)
+### [GoodQuote Scraper](https://github.com/hexsyro/Goodreads-quote-scraper)
 Production Goodreads scraper → **structured CSV/JSON datasets** (quotes, authors, tags).
 BeautifulSoup - Pagination - Data validation - Multi-page
 
 ---
 
 
-## 🛠 Production Tech Stack
+## Production Tech Stack
 
-🐍 Scraping: Playwright - BeautifulSoup - Asyncio - Proxy rotation
-📊 Data: Pandas - NumPy - Parquet/JSONL exports
-⚡ Backend: FastAPI - PostgreSQL - APScheduler - JWT
-🎨 Frontend: Next.js 15 - Tailwind - TypeScript
-☁️ Infra: Railway - Vercel - Supabase - Docker
+- Scraping: Playwright - BeautifulSoup - Asyncio - Proxy rotation
+- Data: Pandas - NumPy - Parquet/JSONL exports
+- Backend: FastAPI - PostgreSQL - APScheduler - JWT
+- Frontend: Next.js 15 - Tailwind - TypeScript
+- Infra: Railway - Vercel - Supabase - Docker
 
 **freeCodeCamp Certified**: Responsive Web Design (Mar 2024) • Scientific Computing with Python (Nov 2025)
 
 ---
 
 ## 📬 Let's Build Together
-- 💼 **Open for Toptal/Upwork**: Data pipelines, scraping platforms, API development
-- 🌐 [pulseaggregator.com](https://www.pulseaggregator.com)
-- 🌐 [socialintel.io](https://socialintel.io)
-- 🐦 [x.com/hexsyro](https://x.com/hexsyro)
-- 📧 heshan[at]socialintel.io
+- **Open for Fiverr/Upwork**: Data pipelines, scraping platforms, API development
+- [upwork.com/hexsyro](https://www.upwork.com/freelancers/~01224b84958c0f50e0?mp_source=share)
+- [fiverr.com/hexsyro](https://www.fiverr.com/s/akDPxo7)
 
 **Need custom scrapers? Production ETL? Hit me up.**
