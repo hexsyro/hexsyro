@@ -4,14 +4,14 @@ I build **production web scraping platforms** that deliver **structured data at 
 
 **Fiverr/Upwork Data Engineer** | Python  | Playwright | FastAPI | ETL Pipelines
 
-[![PulseAggregator](https://img.shields.io/badge/PulseAggregator-250+%20Sources-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
-[![SocialIntel](https://img.shields.io/badge/SocialIntel-100%2B%20Datasets-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
+[![Pulse Aggregator](https://img.shields.io/badge/PulseAggregator-250+%20Sources-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
+[![Social Intel](https://img.shields.io/badge/SocialIntel-100%2B%20Datasets-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
 
 ---
 
 ## Featured Projects
 
-### [PulseAggregator](https://www.pulseaggregator.com)
+### [Pulse Aggregator](https://www.pulseaggregator.com)
 **Production news platform** indexing **6,900+ articles per run** from 250+ sources (BBC, Reuters, Guardian, TechCrunch).
 
 **4-tier RSS fallback** → Playwright scraper (paywalls) → hourly APScheduler → **full-text search + REST API**
@@ -21,7 +21,7 @@ FastAPI - PostgreSQL - Playwright - Next.js - APScheduler
 
 ---
 
-### [SocialIntel](https://socialintel.io)
+### [Social Intel](https://socialintel.io)
 **OSINT dataset marketplace** — **125K+ records across 106 datasets** (Reddit/YouTube/GitHub/Medium).
 
 **Pre-processed**: sentiment scores, topic tags, engagement signals. **Drop-in ready** for Python/Tableau/LLMs.
