@@ -4,8 +4,8 @@ I build **production web scraping platforms** that deliver **structured data at 
 
 **Toptal/Upwork Data Engineer** | Python | FastAPI | Playwright | ETL Pipelines
 
-[![PulseAggregator](https://img.shields.io/badge/PulseAggregator-6.9K%20articles%2Frun-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
-[![SocialIntel](https://img.shields.io/badge/SocialIntel-125K%2B%20records-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
+[![PulseAggregator](https://img.shields.io/badge/PulseAggregator-250+%20Sources%2Frun-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
+[![SocialIntel](https://img.shields.io/badge/SocialIntel-100+%2B%20Datasets-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
 
 ---
 
@@ -36,20 +36,17 @@ Production Goodreads scraper → **structured CSV/JSON datasets** (quotes, autho
 BeautifulSoup - Pagination - Data validation - Multi-page
 
 ---
+
+
+## 🛠 Production Tech Stack
+
 🐍 Scraping: Playwright - BeautifulSoup - Asyncio - Proxy rotation
 📊 Data: Pandas - NumPy - Parquet/JSONL exports
 ⚡ Backend: FastAPI - PostgreSQL - APScheduler - JWT
 🎨 Frontend: Next.js 15 - Tailwind - TypeScript
 ☁️ Infra: Railway - Vercel - Supabase - Docker
+
 **freeCodeCamp Certified**: Responsive Web Design (Mar 2024) • Scientific Computing with Python (Nov 2025)
-
----
-
-## 📈 Stats That Matter
-| Platform | Records | Sources | Status |
-|----------|---------|---------|--------|
-| SocialIntel | 125K+ | 106 datasets | 🟢 Live |
-| PulseAggregator | 6.9K/run | 250+ | 🟢 Live |
 
 ---
 
@@ -61,7 +58,3 @@ BeautifulSoup - Pagination - Data validation - Multi-page
 - 📧 heshan[at]socialintel.io
 
 **Need custom scrapers? Production ETL? Hit me up.**
-
-
-
-## 🛠 Production Tech Stack
