@@ -54,7 +54,6 @@ BeautifulSoup - Pagination - Data validation - Multi-page
 
 **Custom scrapers • ETL pipelines • Data platforms • REST APIs**  
 
-|----------|----------|
 | [Fiverr](https://www.fiverr.com/s/akDPxo7) | [Upwork](https://www.upwork.com/freelancers/~01224b84958c0f50e0?mp_source=share) |
 
 
