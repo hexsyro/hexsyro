@@ -22,10 +22,10 @@ FastAPI - PostgreSQL - Playwright - Next.js - APScheduler
 ---
 
 ### [Social Intel](https://socialintel.io)
-**OSINT dataset marketplace** — **125K+ social records across 100+ datasets enriched with sentiment/topic analysis updated daily.** (Reddit/YouTube/GitHub/Medium).
+**OSINT dataset marketplace** — **250K+ social records across 100+ datasets enriched with sentiment/topic analysis updated daily.** (Reddit/YouTube/GitHub/Medium).
 
 **Pre-processed**: sentiment scores, topic tags, engagement signals. **Drop-in ready** for Python/Tableau/LLMs.
-123,907 total records - 106 datasets - 10 free datasets
+250K+ total records - 100+ datasets - 15+ free datasets
 FastAPI - PostgreSQL - Next.js - Paddle - AWS S3
 [![Demo](https://img.shields.io/badge/Watch%20Demo-🚀-00d2d3)](https://youtu.be/3Mce6Z-nlQA?si=YbPmtp3zaAy5ojMw)
 
