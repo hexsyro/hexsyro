@@ -50,11 +50,9 @@ BeautifulSoup - Pagination - Data validation - Multi-page
 
 ---
 
-## Hire Me → Fiverr
+## Hire Me → [Fiverr](https://www.fiverr.com/s/akDPxo7)
 
 **Custom scrapers • ETL pipelines • Data platforms • REST APIs**  
-
-[Fiverr](https://www.fiverr.com/s/akDPxo7)
 
 
 **Need custom scrapers? Production ETL? Hit me up.**
