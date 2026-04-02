@@ -54,5 +54,3 @@ BeautifulSoup - Pagination - Data validation - Multi-page
 
 **Custom scrapers • ETL pipelines • Data platforms • REST APIs**  
 
-
-**Need custom scrapers? Production ETL? Hit me up.**
