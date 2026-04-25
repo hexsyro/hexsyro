@@ -12,11 +12,11 @@ I build **production web scraping platforms** that deliver **structured data at 
 ## Featured Projects
 
 ### [Pulse Aggregator](https://www.pulseaggregator.com)
-**Production news platform** indexing **6,900+ articles per run from 1,000+ news sources updated hourly.** (BBC, Reuters, Guardian, TechCrunch).
+**Production news platform** indexing **10000+ articles per run from 1,000+ news sources updated hourly.** (BBC, Reuters, Guardian, TechCrunch).
 
 **4-tier RSS fallback** → Playwright scraper (paywalls) → hourly APScheduler → **full-text search + REST API**
 
-![Articles](https://img.shields.io/badge/6%2C900%2B-articles%2Frun-brightgreen?style=flat-square)
+![Articles](https://img.shields.io/badge/10000%2B-articles%2Frun-brightgreen?style=flat-square)
 ![Sources](https://img.shields.io/badge/1000%2B-sources-blue?style=flat-square)
 ![Uptime](https://img.shields.io/badge/99.9%25-uptime-success?style=flat-square)
 
