@@ -4,7 +4,7 @@ I build **production web scraping platforms** that deliver **structured data at 
 **Python** | **Playwright** | **FastAPI**
 
 [![Pulse Aggregator](https://img.shields.io/badge/PulseAggregator-1000+%20Sources-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
-[![Social Intel](https://img.shields.io/badge/SocialIntel-150%2B%20Datasets-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
+[![Social Intel](https://img.shields.io/badge/SocialIntel-75%2B%20Platforms-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
 [![FinPull](https://img.shields.io/badge/FinPull-Coming%20Soon-f0a500?style=for-the-badge&logo=chart-line)](https://finpull.dev)
 
 ---
@@ -27,7 +27,7 @@ I build **production web scraping platforms** that deliver **structured data at 
 ---
 
 ### [Social Intel](https://socialintel.io)
-**OSINT dataset marketplace** — **250K+ social records across 150+ datasets enriched with sentiment/topic analysis updated daily.** (Reddit/YouTube/GitHub/Medium).
+**OSINT dataset marketplace** — **150+ premium datasets across 75+ platfroms, datasets enriched with sentiment/topic analysis updated daily.** (Reddit/YouTube/GitHub/Medium).
 
 **Pre-processed**: sentiment scores, topic tags, engagement signals. **Drop-in ready** for Python/Tableau/LLMs.
 
