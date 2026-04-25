@@ -27,7 +27,7 @@ I build **production web scraping platforms** that deliver **structured data at 
 ---
 
 ### [Social Intel](https://socialintel.io)
-**OSINT dataset marketplace** — **150+ premium datasets across 75+ platfroms, datasets enriched with sentiment/topic analysis updated daily.** (Reddit/YouTube/GitHub/Medium).
+**OSINT dataset marketplace** — **150+ premium datasets across 75+ platfroms, datasets enriched with sentiment/topic analysis updated daily.** (Reddit/YouTube/Facebook/Telegram/Etc.).
 
 **Pre-processed**: sentiment scores, topic tags, engagement signals. **Drop-in ready** for Python/Tableau/LLMs.
 
