@@ -1,5 +1,4 @@
 # Hi, I'm Heshan 👨‍💻
-I build **production web scraping platforms** that deliver **structured data at scale**
 
 **Python** | **Playwright** | **FastAPI**
 
@@ -67,11 +66,7 @@ Playwright + yfinance → FastAPI → PostgreSQL → **REST API + Next.js dashbo
 | **Data** | Pandas · NumPy · Parquet/JSONL exports |
 | **Backend** | FastAPI · PostgreSQL · APScheduler · JWT |
 | **Frontend** | Next.js 15 · Tailwind · TypeScript |
-| **Infra** | Railway · Vercel · Supabase · Docker |
+| **Infra** | Vultr · Vercel · Supabase · Docker |
 
 **freeCodeCamp Certified**: Responsive Web Design (Mar 2024) · Scientific Computing with Python (Nov 2025)
 
----
-
-## Hire Me → [Fiverr](https://www.fiverr.com/s/akDPxo7)
-**Custom scrapers · ETL pipelines · Data platforms · REST APIs**
