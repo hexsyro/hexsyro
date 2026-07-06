@@ -1,17 +1,31 @@
 # Hi, I'm Heshan 👨‍💻
 
-**Python** | **Playwright** | **FastAPI**
-
-[![Pulse Aggregator](https://img.shields.io/badge/PulseAggregator-1000+%20Sources-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
-[![Social Intel](https://img.shields.io/badge/SocialIntel-75%2B%20Platforms-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
+[![Pulse Aggregator](https://img.shields.io/badge/PulseAggregator-10K+%20Sources-0a84ff?style=for-the-badge&logo=news)](https://pulseaggregator.com)
+[![Social Intel](https://img.shields.io/badge/SocialIntel-100%2B%20Platforms-0066cc?style=for-the-badge&logo=data)](https://socialintel.io)
 [![FinPull](https://img.shields.io/badge/FinPull-Coming%20Soon-f0a500?style=for-the-badge&logo=chart-line)](https://finpull.dev)
 
 ---
 
 ## Featured Projects
 
+### [Social Intel](https://socialintel.io)
+**Social Media dataset marketplace** — **Premium social datasets, permanent archives across 100+ platforms.**
+Our datasets are built for AI training, research, and analytics, with a focus on quality, structure, and ethical sourcing. We offer 
+**250+ enrichment fields** within 20+ categories.
+
+**Requests delivered in 1–3 days** — collected, enriched, and ready to use.
+**Individual purchase from $9** — any catalog or custom dataset.
+**Free catalog datasets** — datasets under 10K rows are free.
+**Free 100-row samples** — no signup needed.
+
+`FastAPI` `PostgreSQL`  `Next.js` `Paddle` `AWS S3` `Requests` `VADER Lexicon`
+
+[![Demo](https://img.shields.io/badge/Watch%20Demo-🚀-00d2d3)](https://youtu.be/r6EkmOJcg8E?si=YCoAs1uwM16Ae_rA)
+
+---
+
 ### [Pulse Aggregator](https://www.pulseaggregator.com)
-**Production news platform** indexing **100000+ articles per week from 1,000+ news sources updated hourly.** (BBC, Reuters, Guardian, TechCrunch).
+**Production news platform** indexing **100000+ articles per week from 10,000+ news sources updated hourly.**
 
 **4-tier RSS fallback** → Playwright scraper (paywalls) → hourly APScheduler → **full-text search + REST API**
 
@@ -22,21 +36,6 @@
 `FastAPI` `PostgreSQL` `Playwright` `Next.js` `APScheduler`
 
 [![Demo](https://img.shields.io/badge/Watch%20Demo-🔥-ff4757)](https://youtu.be/McLvQCSXJsU?si=A6glq0tg1zJAX5IE)
-
----
-
-### [Social Intel](https://socialintel.io)
-**OSINT dataset marketplace** — **150+ premium datasets across 75+ platfroms, datasets enriched with sentiment/topic analysis updated daily.** (Reddit/YouTube/Facebook/Telegram/Etc.).
-
-**Pre-processed**: sentiment scores, topic tags, engagement signals. **Drop-in ready** for Python/Tableau/LLMs.
-
-![Records](https://img.shields.io/badge/250K%2B-total%20records-blueviolet?style=flat-square)
-![Datasets](https://img.shields.io/badge/150%2B-datasets-blue?style=flat-square)
-![Free](https://img.shields.io/badge/15%2B-free%20datasets-green?style=flat-square)
-
-`FastAPI` `PostgreSQL` `Next.js` `Paddle` `AWS S3`
-
-[![Demo](https://img.shields.io/badge/Watch%20Demo-🚀-00d2d3)](https://youtu.be/3Mce6Z-nlQA?si=YbPmtp3zaAy5ojMw)
 
 ---
 
