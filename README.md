@@ -34,8 +34,8 @@ Our datasets are built for AI training, research, and analytics, with a focus on
 
 **4-tier RSS fallback** → Playwright scraper (paywalls) → hourly APScheduler → **full-text search + REST API**
 
-![Articles](https://img.shields.io/badge/100000%2B-articles%2Fweek-brightgreen?style=flat-square)
-![Sources](https://img.shields.io/badge/1000%2B-sources-blue?style=flat-square)
+![Articles](https://img.shields.io/badge/10,000%2B-articles%2Fweek-brightgreen?style=flat-square)
+![Sources](https://img.shields.io/badge/10,000%2B-sources-blue?style=flat-square)
 ![Uptime](https://img.shields.io/badge/99.9%25-uptime-success?style=flat-square)
 
 `FastAPI` `PostgreSQL` `Playwright` `Next.js` `APScheduler`
