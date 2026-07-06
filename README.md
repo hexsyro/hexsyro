@@ -14,11 +14,14 @@ Our datasets are built for AI training, research, and analytics, with a focus on
 **250+ enrichment fields** within 20+ categories.
 
 **Requests delivered in 1–3 days** — collected, enriched, and ready to use.
+
 **Individual purchase from $9** — any catalog or custom dataset.
+
 **Free catalog datasets** — datasets under 10K rows are free.
+
 **Free 100-row samples** — no signup needed.
 
-`FastAPI` `PostgreSQL`  `Next.js` `Paddle` `AWS S3` `Requests` `VADER Lexicon`
+`FastAPI` `PostgreSQL`  `Next.js` `PayPal` `AWS S3` `VADER Lexicon`
 
 [![Demo](https://img.shields.io/badge/Watch%20Demo-🚀-00d2d3)](https://youtu.be/r6EkmOJcg8E?si=YCoAs1uwM16Ae_rA)
 
