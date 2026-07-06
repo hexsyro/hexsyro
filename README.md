@@ -10,8 +10,10 @@
 
 ### [Social Intel](https://socialintel.io)
 **Social Media dataset marketplace** — **Premium social datasets, permanent archives across 100+ platforms.**
+
 Our datasets are built for AI training, research, and analytics, with a focus on quality, structure, and ethical sourcing. We offer 
 **250+ enrichment fields** within 20+ categories.
+
 
 **Requests delivered in 1–3 days** — collected, enriched, and ready to use.
 
