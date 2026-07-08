@@ -13,7 +13,8 @@
 
 Enrichment is fully deterministic (no LLM) — sentiment, topics, financial signals, bot detection, 250+ fields per post, 25 quality checks.
 
-**Custom datasets delivered in 1–3 days** from **$9** (10K–25K rows). Free catalog for datasets under 10K rows, free 100-row samples, no signup needed.
+**Custom datasets delivered in 1–3 days** from **$9** (10K–25K rows). 
+Free catalog for datasets under 10K rows, free 100-row samples, no signup needed.
 
 `FastAPI` `PostgreSQL` `Next.js` `Playwright` `PayPal` `AWS S3` `VADER Lexicon`
 
