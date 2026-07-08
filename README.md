@@ -9,21 +9,13 @@
 ## Featured Projects
 
 ### [Social Intel](https://socialintel.io)
-**Social Media dataset marketplace** — **Premium social datasets, permanent archives across 100+ platforms.**
+**Custom + pre-enriched social media datasets** — pick platforms and keywords, we collect, enrich, and deliver in CSV/JSON/JSONL/Parquet.
 
-Our datasets are built for AI training, research, and analytics, with a focus on quality, structure, and ethical sourcing. We offer 
-**250+ enrichment fields** within 20+ categories.
+Enrichment is fully deterministic (no LLM) — sentiment, topics, financial signals, bot detection, 250+ fields per post, 25 quality checks.
 
+**Custom datasets delivered in 1–3 days** from **$9** (10K–25K rows). Free catalog for datasets under 10K rows, free 100-row samples, no signup needed.
 
-**Requests delivered in 1–3 days** — collected, enriched, and ready to use.
-
-**Individual purchase from $9** — any catalog or custom dataset.
-
-**Free catalog datasets** — datasets under 10K rows are free.
-
-**Free 100-row samples** — no signup needed.
-
-`FastAPI` `PostgreSQL`  `Next.js` `PayPal` `AWS S3` `VADER Lexicon`
+`FastAPI` `PostgreSQL` `Next.js` `Playwright` `PayPal` `AWS S3` `VADER Lexicon`
 
 [![Demo](https://img.shields.io/badge/Watch%20Demo-🚀-00d2d3)](https://youtu.be/r6EkmOJcg8E?si=YCoAs1uwM16Ae_rA)
 
@@ -73,4 +65,3 @@ Playwright + yfinance → FastAPI → PostgreSQL → **REST API + Next.js dashbo
 | **Infra** | Vultr · Vercel · Supabase · Docker |
 
 **freeCodeCamp Certified**: Responsive Web Design (Mar 2024) · Scientific Computing with Python (Nov 2025)
-
