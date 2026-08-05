@@ -2,12 +2,12 @@
 
 
 ### SocialIntel
-**A dataset marketplace offering pre-enriched, ready-to-use datasets across 100+ social media sources, with custom datasets delivered in 1–3 days.** 🔗 [socialintel.io](https://socialintel.io)
+**A dataset marketplace offering pre-enriched, ready-to-use datasets across 100+ social media sources, with custom datasets delivered in 1–3 days.** [socialintel.io](https://socialintel.io)
 
 ---
 
 ### Pulse Aggregator
-**A live news-aggregation SaaS pulling from 10,000+ sources via Python crawlers, with a modern Next.js frontend.** 🔗 [pulseaggregator.com](https://pulseaggregator.com)
+**A live news-aggregation SaaS pulling from 10,000+ sources via Python crawlers, with a modern Next.js frontend.** [pulseaggregator.com](https://pulseaggregator.com)
 
 ---
 
