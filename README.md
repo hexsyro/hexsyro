@@ -7,9 +7,7 @@
 ---
 
 ### Pulse Aggregator
-**A live news-aggregation SaaS pulling from 10,000+ sources via Python crawlers, with a modern Next.js frontend.**
-
-🔗 [pulseaggregator.com](https://pulseaggregator.com)
+**A live news-aggregation SaaS pulling from 10,000+ sources via Python crawlers, with a modern Next.js frontend.** 🔗 [pulseaggregator.com](https://pulseaggregator.com)
 
 ---
 
