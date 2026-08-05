@@ -25,20 +25,17 @@
 
 ## Certus Data *(Coming Soon)*
 
-**A shared platform for a suite of data and content pipeline verification tools.** Rather than building separate applications for each tool, every module plugs into one shared backend, database, auth/billing system, and dashboard. Each tool retains its own landing page and pricing while sharing all underlying infrastructure.
+**A shared platform for a suite of data and content pipeline verification tools.** 
 
-### Tools in the Suite
+**EnrichAudit** - Detects miscalculated engagement rates, stale or misapplied enrichment fields, and sentiment–emotion contradictions 
+**LinguaCheck** - Flags sentiment scores computed with the wrong language model (e.g., non-English content scored as English)
+**SourceLock** - Verifies AI-generated summaries and claims trace back to real source posts (hallucination detection)
+**ScrapeWatch** - Detects scrapers silently breaking when a target site's structure changes 
+**WhyChanged** - Generates plain-English explanations for why a tracked metric shifted 
+**NuanceBench** - Evaluates sentiment tools/vendors on sarcasm, slang, and emoji handling 
+**FilterGap** - Identifies bot/spam mentions slipping through budget-tier listening tools 
 
-| Tool | Purpose |
-|---|---|
-| **EnrichAudit** | Detects miscalculated engagement rates, stale or misapplied enrichment fields, and sentiment–emotion contradictions |
-| **LinguaCheck** | Flags sentiment scores computed with the wrong language model (e.g., non-English content scored as English) |
-| **SourceLock** | Verifies AI-generated summaries and claims trace back to real source posts (hallucination detection) |
-| **ScrapeWatch** | Detects scrapers silently breaking when a target site's structure changes |
-| **WhyChanged** | Generates plain-English explanations for why a tracked metric shifted |
-| **NuanceBench** | Evaluates sentiment tools/vendors on sarcasm, slang, and emoji handling |
-| **FilterGap** | Identifies bot/spam mentions slipping through budget-tier listening tools |
-
+---
 
 ## Unified Tech Stack
   
