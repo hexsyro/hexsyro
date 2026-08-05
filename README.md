@@ -1,6 +1,4 @@
-# Private Repositories
-
-A collection of SaaS products spanning social data intelligence, news aggregation, multi-asset trading, and data pipeline verification.
+# What's in My Private Repositories
 
 ---
 
@@ -9,13 +7,6 @@ A collection of SaaS products spanning social data intelligence, news aggregatio
 **A dataset marketplace offering pre-enriched, ready-to-use datasets across 100+ social media sources, with custom datasets delivered in 1–3 days.**
 
 🔗 [socialintel.io](https://socialintel.io)
-
-### Key Features
-
-- **100+ Platform Integrations** — Coverage across all major social media platforms
-- **Pre-Enriched Datasets** — Quality-scored, ready-to-use data with no manual cleanup required
-- **Custom Dataset Builder** — 1–3 day turnaround on bespoke data requests
-- **Background Workers** — Auto-scaling worker architecture for task automation
 
 ### Tech Stack
 
@@ -32,17 +23,6 @@ A collection of SaaS products spanning social data intelligence, news aggregatio
 
 🔗 [pulseaggregator.com](https://pulseaggregator.com)
 
-### Key Features
-
-- **10,000+ Sources** — RSS feeds from major news outlets worldwide
-- **Multi-Tier Scraping** — RSS ingestion with JavaScript-rendered page fallback
-- **Anti-Blocking** — User-agent rotation and stealth scraping measures
-- **Semantic Deduplication** — ML-based similarity detection to eliminate near-duplicate content
-- **Full-Text Search** — Native PostgreSQL full-text search
-- **Keyword Alerts** — Real-time email notifications on keyword matches
-- **Weekly Digests** — Automated digest email delivery
-- **Translation** — Support for 20+ languages
-
 ### Tech Stack
 
 | Layer | Technologies |
@@ -55,14 +35,6 @@ A collection of SaaS products spanning social data intelligence, news aggregatio
 ## FinPull *(Coming Soon)*
 
 **A unified trading dashboard for stocks, forex, crypto, and futures — built charting- and technical-analysis-first, with honest latency labeling on every asset class.**
-
-### Key Features
-
-- **Multi-Asset Trading** — Stocks, forex, crypto, and futures unified in one dashboard
-- **Real-Time Charts** — Advanced charting and technical analysis tools
-- **Watchlists & Alerts** — Customizable watchlists with automated alerting
-- **Live Market Data** — Real-time WebSocket streaming with transparent, honest latency labeling
-- **WebSocket API** — Low-latency streaming for live ticks and market data
 
 ### Tech Stack
 
@@ -88,14 +60,6 @@ A collection of SaaS products spanning social data intelligence, news aggregatio
 | **WhyChanged** | Generates plain-English explanations for why a tracked metric shifted |
 | **NuanceBench** | Evaluates sentiment tools/vendors on sarcasm, slang, and emoji handling |
 | **FilterGap** | Identifies bot/spam mentions slipping through budget-tier listening tools |
-
-### Key Features
-
-- **Multi-Tool Platform** — Shared backend, database, auth, and billing across 7 verification tools
-- **Tool Router** — Extensible registry for adding new tools as self-contained modules
-- **Findings Engine** — Generic read/write layer for analysis results, shared across every tool
-- **Modular Architecture** — Each tool lives in its own folder with dedicated `router.py` and `logic.py`
-- **Object Storage** — Local storage for uploaded datasets initially, with S3-compatible storage planned
 
 ### Tech Stack
 
