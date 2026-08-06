@@ -1,20 +1,13 @@
 # What's in My Private Repositories
 
-
 ### SocialIntel
 **A dataset marketplace offering pre-enriched, ready-to-use datasets across 100+ social media sources, with custom datasets delivered in 1–3 days.** [socialintel.io](https://socialintel.io)
-
----
 
 ### Pulse Aggregator
 **A live news-aggregation SaaS pulling from 10,000+ sources via Python crawlers, with a modern Next.js frontend.** [pulseaggregator.com](https://pulseaggregator.com)
 
----
-
 ### FinPull *(Coming Soon)*
 **A unified trading dashboard for stocks, forex, crypto, and futures — built charting- and technical-analysis-first, with honest latency labeling on every asset class.**
-
----
 
 ### Certus Data *(Coming Soon)*
 **A shared platform for a suite of data and content pipeline verification tools.** 
