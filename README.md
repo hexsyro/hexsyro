@@ -1,6 +1,6 @@
 # What's in My Private Repositories
 
-### SocialIntel
+### Social Intel
 **A dataset marketplace offering pre-enriched, ready-to-use datasets across 100+ social media sources, with custom datasets delivered in 1–3 days.** [socialintel.io](https://socialintel.io)
 
 ### Pulse Aggregator
