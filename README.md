@@ -15,3 +15,8 @@
 - **Auth/Security:** PyJWT, PyOTP, bcrypt, cryptography
 - **Real-Time:** WebSocket + Redis pub/sub (FinPull)
 - **Frontend:** Next.js (App Router), TypeScript
+- **Data Science:** pandas, NumPy, scikit-learn, Matplotlib
+- **Deep Learning:** PyTorch (or TensorFlow)
+- **Big Data:** Apache Spark (PySpark)
+- **Other Languages:** R (dplyr, ggplot2)
+- **Deployment/Infra:** Docker
