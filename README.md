@@ -7,9 +7,3 @@
 **FinPull** *(Coming Soon)* — Unified trading dashboard for stocks, forex, crypto, and futures, with explicit latency labeling.
 
 **Certus Data** *(Coming Soon)* — Data/content pipeline verification suite: EnrichAudit, LinguaCheck, SourceLock, ScrapeWatch, WhyChanged, NuanceBench, FilterGap.
-
-
-
-## Languages Across My Repositories
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hexsyro&theme=github_dark)
