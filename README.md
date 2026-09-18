@@ -20,3 +20,5 @@
 - **Big Data:** Apache Spark (PySpark)
 - **Other Languages:** R (dplyr, ggplot2)
 - **Deployment/Infra:** Docker
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexsyro&layout=compact)
