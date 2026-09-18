@@ -8,17 +8,8 @@
 
 **Certus Data** *(Coming Soon)* — Data/content pipeline verification suite: EnrichAudit, LinguaCheck, SourceLock, ScrapeWatch, WhyChanged, NuanceBench, FilterGap.
 
-## Tech Stack
 
-- **Backend:** Python, FastAPI/Uvicorn, SQLAlchemy/Alembic, PostgreSQL
-- **Scraping/Tasks:** Playwright, cloudscraper, feedparser, APScheduler
-- **Auth/Security:** PyJWT, PyOTP, bcrypt, cryptography
-- **Real-Time:** WebSocket + Redis pub/sub (FinPull)
-- **Frontend:** Next.js (App Router), TypeScript
-- **Data Science:** pandas, NumPy, scikit-learn, Matplotlib
-- **Deep Learning:** PyTorch (or TensorFlow)
-- **Big Data:** Apache Spark (PySpark)
-- **Other Languages:** R (dplyr, ggplot2)
-- **Deployment/Infra:** Docker
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hexsyro&layout=compact)
+## Languages Across My Repositories
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hexsyro&theme=github_dark)
