@@ -10,63 +10,39 @@ Source code for the following projects is private.
 
 <table>
   <tr>
-    <td width="220"><b>Languages & Querying</b></td>
+    <td width="150"><b>Data & Analysis</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="SQL" title="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data Analysis & Visualization</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Seaborn" />
+      <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="32" alt="NumPy" title="NumPy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="32" alt="Pandas" title="Pandas" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="32" alt="Matplotlib" title="Matplotlib" />
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" height="22" alt="Seaborn" />
     </td>
   </tr>
   <tr>
     <td><b>Machine Learning</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikit-learn" title="scikit-learn" />
-      <img src="https://img.shields.io/badge/XGBoost-253858?style=for-the-badge&logo=xgboost&logoColor=white" height="28" alt="XGBoost" />
-      <img src="https://img.shields.io/badge/LightGBM-298438?style=for-the-badge&logo=lightgbm&logoColor=white" height="28" alt="LightGBM" />
-      <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black" height="28" alt="CatBoost" />
-      <img src="https://img.shields.io/badge/Optuna-005CAF?style=for-the-badge&logo=optuna&logoColor=white" height="28" alt="Optuna" />
+      <img src="https://skillicons.dev/icons?i=sklearn" height="32" alt="scikit-learn" title="scikit-learn" />
+      <img src="https://img.shields.io/badge/XGBoost-253858?style=flat-square" height="22" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/LightGBM-298438?style=flat-square" height="22" alt="LightGBM" />
+      <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" height="22" alt="CatBoost" />
+      <img src="https://img.shields.io/badge/Optuna-005CAF?style=flat-square" height="22" alt="Optuna" />
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td><b>Backend & Data</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy" title="SQLAlchemy" />
+      <img src="https://skillicons.dev/icons?i=postgres,fastapi,nextjs,react" height="32" alt="PostgreSQL, FastAPI, Next.js, React" title="PostgreSQL · FastAPI · Next.js · React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="32" alt="SQLAlchemy" title="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="22" alt="Pydantic" />
     </td>
   </tr>
   <tr>
-    <td><b>Backend & APIs</b></td>
+    <td><b>MLOps & DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI" />
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="28" alt="Pydantic" />
-      <img src="https://img.shields.io/badge/REST_APIs-374151?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="REST APIs" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react" height="40" alt="Next.js and React" title="Next.js, React" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>MLOps & Experiment Tracking</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="28" alt="MLflow" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="40" alt="pytest" title="pytest" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Tooling</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions" height="40" alt="Git, GitHub, Docker, Linux, GitHub Actions" title="Git · GitHub · Docker · Linux · GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions" height="32" alt="Git, GitHub, Docker, Linux, GitHub Actions" title="Git · GitHub · Docker · Linux · GitHub Actions" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="32" alt="pytest" title="pytest" />
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="22" alt="MLflow" />
     </td>
   </tr>
 </table>
