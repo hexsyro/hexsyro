@@ -1,7 +1,5 @@
 ## Private Projects
 
-Source code for these products is private.
-
 | Project | Description |
 |:--|:--|
 | [**SocialIntel**](https://socialintel.io) | Dataset marketplace with 100+ social media sources and custom datasets delivered in 1-3 days |
