@@ -8,41 +8,20 @@ Source code for the following projects is private.
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td width="150"><b>Data & Analysis</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="32" alt="NumPy" title="NumPy" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="32" alt="Pandas" title="Pandas" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="32" alt="Matplotlib" title="Matplotlib" />
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" height="22" alt="Seaborn" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=sklearn" height="32" alt="scikit-learn" title="scikit-learn" />
-      <img src="https://img.shields.io/badge/XGBoost-253858?style=flat-square" height="22" alt="XGBoost" />
-      <img src="https://img.shields.io/badge/LightGBM-298438?style=flat-square" height="22" alt="LightGBM" />
-      <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" height="22" alt="CatBoost" />
-      <img src="https://img.shields.io/badge/Optuna-005CAF?style=flat-square" height="22" alt="Optuna" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Data</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,fastapi,nextjs,react" height="32" alt="PostgreSQL, FastAPI, Next.js, React" title="PostgreSQL · FastAPI · Next.js · React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height="32" alt="SQLAlchemy" title="SQLAlchemy" />
-      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="22" alt="Pydantic" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>MLOps & DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions" height="32" alt="Git, GitHub, Docker, Linux, GitHub Actions" title="Git · GitHub · Docker · Linux · GitHub Actions" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" height="32" alt="pytest" title="pytest" />
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="22" alt="MLflow" />
-    </td>
-  </tr>
-</table>
+**Data & ML** &nbsp;
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn" height="28" alt="Python, NumPy, Pandas, Matplotlib, scikit-learn" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
+<img src="https://img.shields.io/badge/XGBoost-253858?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LightGBM-298438?style=flat-square" alt="LightGBM" />
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" alt="CatBoost" />
+<img src="https://img.shields.io/badge/Optuna-005CAF?style=flat-square" alt="Optuna" />
+
+**Backend** &nbsp;
+<img src="https://skillicons.dev/icons?i=postgres,fastapi,nextjs,react" height="28" alt="PostgreSQL, FastAPI, Next.js, React" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic" />
+
+**MLOps & DevOps** &nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions" height="28" alt="Git, GitHub, Docker, Linux, GitHub Actions" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square" alt="pytest" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" alt="MLflow" />
