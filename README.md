@@ -8,20 +8,8 @@ Source code for the following projects is private.
 
 ## Tech Stack
 
-**Data & ML** &nbsp;
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn" height="28" alt="Python, NumPy, Pandas, Matplotlib, scikit-learn" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
-<img src="https://img.shields.io/badge/XGBoost-253858?style=flat-square" alt="XGBoost" />
-<img src="https://img.shields.io/badge/LightGBM-298438?style=flat-square" alt="LightGBM" />
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" alt="CatBoost" />
-<img src="https://img.shields.io/badge/Optuna-005CAF?style=flat-square" alt="Optuna" />
-
-**Backend** &nbsp;
-<img src="https://skillicons.dev/icons?i=postgres,fastapi,nextjs,react" height="28" alt="PostgreSQL, FastAPI, Next.js, React" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic" />
-
-**MLOps & DevOps** &nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions" height="28" alt="Git, GitHub, Docker, Linux, GitHub Actions" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square" alt="pytest" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" alt="MLflow" />
+| | |
+|:--|:--|
+| **Data & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-253858?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-298438?style=flat-square) ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black) ![Optuna](https://img.shields.io/badge/Optuna-005CAF?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) |
+| **Backend & Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **MLOps & DevOps** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
