@@ -1,4 +1,4 @@
-## Private Projects
+## Private Repos
 
 | Project | Description |
 |:--|:--|
