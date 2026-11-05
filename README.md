@@ -1,13 +1,16 @@
-# Private Repositories
+## Private Projects
 
-Source code for the following projects is private.
+Source code for these products is private.
 
-- **SocialIntel** ([socialintel.io](https://socialintel.io)): Dataset marketplace with 100+ social media sources and custom datasets delivered in 1-3 days.
-- **PulseAggregator** ([pulseaggregator.com](https://pulseaggregator.com)): Live news aggregation platform covering 15,000+ sources, built with Next.js.
-- **FinPull** ([finpull.app](https://finpull.app)): Unified trading dashboard for stocks, forex, crypto, and futures, with explicit latency labeling.
+| Project | Description |
+|:--|:--|
+| [**SocialIntel**](https://socialintel.io) | Dataset marketplace with 100+ social media sources and custom datasets delivered in 1-3 days |
+| [**PulseAggregator**](https://pulseaggregator.com) | Live news aggregation platform covering 15,000+ sources, built with Next.js |
+| [**FinPull**](https://finpull.app) | Unified trading dashboard for stocks, forex, crypto and futures, with explicit latency labeling |
 
 ## Tech Stack
 
+| | |
 |:--|:--|
 | **Data & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-253858?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-298438?style=flat-square) ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black) ![Optuna](https://img.shields.io/badge/Optuna-005CAF?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) |
 | **Backend & Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
